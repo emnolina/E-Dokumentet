@@ -4,7 +4,7 @@ function initialize() {
     //Map parametrs
     var mapOptions_place = {
         zoom: 10,
-        center: new google.maps.LatLng(42.6622178, 21.1578533),
+        center: new google.maps.LatLng(42.661051,21.160136999999963),
         mapTypeId: google.maps.MapTypeId.ROADMAP,
 
         mapTypeControl: false,
@@ -48,7 +48,7 @@ function initialize() {
     var Sport_place = 'img/icon/Sport.png';
 
     //positions
-    var point_place = new google.maps.LatLng(41.154, -73.328);
+    var point_place = new google.maps.LatLng(42.661051,21.160136999999963);
 
     //markers
     var marker_place = className = 'Cafe';
